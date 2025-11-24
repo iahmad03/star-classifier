@@ -30,7 +30,22 @@ The Streamlit app (`app.py`) allows users to:
 - Input star properties interactively
 - Get predicted star type in real-time
 
-Run it with:
+### How to Run
+
+1. **Clone the repository:**
+
+```bash
+git clone https://github.com/iahmad03/star-classifier.git
+```
+
+2. **Install dependencies:**
+
+```bash
+pip install -r requirements.txt
+```
+
+3. **Run the Streamlit app:**
 
 ```bash
 streamlit run app.py
+```
